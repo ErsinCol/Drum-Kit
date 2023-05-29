@@ -4,4 +4,4 @@
 - Html-Css-Javascript
 
 ### Live Preview 
-https://ersincol.github.io/Drum-Kit
+https://ersincol.github.io/drum-kit
